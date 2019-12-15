@@ -1,1 +1,1 @@
-# REST_API_WITH_JWT
+# This project publishes API which requires JWT token in the headers
